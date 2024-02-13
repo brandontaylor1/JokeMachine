@@ -1,0 +1,11 @@
+{
+  "name": "jokemachine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jokemachine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon Taylor",
+  "license": "ISC"
+}
